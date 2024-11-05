@@ -17,7 +17,7 @@
 
 - **📄Up to Date CV [OpenCV](https://bit.ly/cv0172)**
 
-- **⚡ Fun fact Nothing is truly random**
+- **⚡ Fun fact: Nothing is Truly Random**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
