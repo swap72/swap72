@@ -15,7 +15,7 @@
 
 - **📫 How to reach me swapnilmishra0923@gmail.com**
 
-- **📄Up to Date CV [https://bit.ly/cv0172](OpenCV)**
+- **📄Up to Date CV [OpenCV](https://bit.ly/cv0172)**
 
 - **⚡ Fun fact Nothing is truly random**
 
