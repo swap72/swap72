@@ -17,7 +17,7 @@
 
 - **📄Up to Date CV [OpenCV](https://bit.ly/cv0172)**
 
-- ** 🗃️ [Portfolio](https://swap72.github.io/portfolio/)**
+- **🗃️[Portfolio](https://swap72.github.io/portfolio/)**
 
 - **⚡ Fun fact: Nothing is Truly Random**
 
