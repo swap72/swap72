@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swap72" alt="swap72" /></a> </p>
 
+
+- **🗃️ [Portfolio](https://swap72.github.io/portfolio/)**
+
 - **I’m currently working 👨🏻‍💻 on an Encryption 🔑🔒 related Project**
 
 - **I’m currently learning 🔬 🍃 Spring Framework ♨️**
@@ -16,8 +19,6 @@
 - **📫 How to reach me swapnilmishra0923@gmail.com**
 
 - **📄Up to Date CV [OpenCV](https://bit.ly/cv0172)**
-
-- **🗃️[Portfolio](https://swap72.github.io/portfolio/)**
 
 - **⚡ Fun fact: Nothing is Truly Random**
 
