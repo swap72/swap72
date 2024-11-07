@@ -1,18 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swapnil Mishra</h1>
-<h3 align="center">I'm into Java🍵and Web Development🕸️</h3>
-
-[![Mad Scientist GIF](https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif)](https://giphy.com/stickers/rickandmorty-season-4-episode-8-rick-and-morty-kyKuZzsa6bShl3SaHe)
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=swap72&label=Profile%20views&color=0e75b6&style=flat" alt="swap72" /> 
-</p>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=swap72" alt="swap72" />
-    </a> 
-</p>
-
+# 💫 About Me:
 - **🗃️ [Portfolio](https://swap72.github.io/portfolio/)**
 - **I’m currently working 👨🏻‍💻 on an Encryption 🔑🔒 related Project**
 - **I’m currently learning 🔬 🍃 Spring Framework ♨️**
@@ -21,7 +7,7 @@
 - **📄Up to Date CV [OpenCV](https://bit.ly/cv0172)**
 - **⚡ Fun fact: Nothing is Truly Random**
 
-## 🌐 Connect with me:
+## 🌐 Socials:
 <p align="left">
     <a href="https://dev.to/https://dev.to/swap72" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/swap72" height="30" width="40" />
@@ -40,7 +26,7 @@
     </a>
 </p>
 
-## 💻 Languages and Tools:
+# 💻 Tech Stack:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -95,7 +81,16 @@
     </a> 
 </p>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swap72&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swap72&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swap72&
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swap72&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swap72&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=swap72&icon=0&color=9)](https://visitcount.itsvg.in)
