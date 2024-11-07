@@ -26,16 +26,16 @@
     <a href="https://dev.to/https://dev.to/swap72" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/swap72" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnil72" target="blank">
+    <a href="https://www.linkedin.com/in/swapnil72" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil72" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12572358/swapnil-mishra" target="blank">
+    <a href="https://stackoverflow.com/users/12572358/swapnil-mishra" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12572358/swapnil-mishra" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/https://www.instagram.com/swapnil_72/" target="blank">
+    <a href="https://www.instagram.com/swapnil_72/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/swapnil_72/" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/swap72" target="blank">
+    <a href="https://www.hackerrank.com/swap72" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/swap72" height="30" width="40" />
     </a>
 </p>
