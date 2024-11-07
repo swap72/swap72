@@ -13,7 +13,7 @@
     </a> 
 </p>
 
-- ##**🗃️ [Portfolio](https://swap72.github.io/portfolio/)**
+## - **🗃️ [Portfolio](https://swap72.github.io/portfolio/)**
 - **I’m currently working 👨🏻‍💻 on an Encryption 🔑🔒 related Project**
 - **I’m currently learning 🔬 🍃 Spring Framework ♨️**
 - **💬 Ask me about Core Java🍵 & Azure Cloud☁️**
