@@ -15,7 +15,7 @@
 
 ## ➡️ **🗃️ [Portfolio](https://swap72.github.io/portfolio/)**
 - **I’m currently working 👨🏻‍💻 on an Encryption 🔑🔒 related Project**
-- **I’m currently learning 🔬 🍃 Spring Framework ♨️**
+- **I’m currently learning 🔬 Rust⚙️🦀**
 - **💬 Ask me about Core Java🍵 & Azure Cloud☁️**
 - **📫 How to reach me swapnilmishra0923@gmail.com**
 - **📄Up to Date CV [OpenCV](https://bit.ly/cv0172)**
