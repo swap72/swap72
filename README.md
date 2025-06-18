@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swapnil Mishra</h1>
-<h3 align="center">_Backend first, bugs reversed.
-Clean and lean, always rehearsed._</h3>
+<h3 align="center">*Backend first, bugs reversed.
+Clean and lean, always rehearsed.*</h3>
 
 [![Mad Scientist GIF](https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif)](https://giphy.com/stickers/rickandmorty-season-4-episode-8-rick-and-morty-kyKuZzsa6bShl3SaHe)
-
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=swap72&label=Profile%20views&color=0e75b6&style=flat" alt="swap72" /> 
 </p>
