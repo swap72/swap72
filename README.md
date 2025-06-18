@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Mishra</h1>
-<h3 align="center">I'm into Java🍵and Web Development🕸️</h3>
+<h3 align="center">__Backend first, bugs reversed.
+Clean and lean, always rehearsed.__</h3>
 
 [![Mad Scientist GIF](https://media.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif)](https://giphy.com/stickers/rickandmorty-season-4-episode-8-rick-and-morty-kyKuZzsa6bShl3SaHe)
 
