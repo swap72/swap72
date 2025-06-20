@@ -40,13 +40,9 @@ Clean and lean, always rehearsed.</em></h3>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/swap72" height="30" width="40" />
     </a>
     
-<a href="https://leetcode.com/swap72/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode Profile" height="30" width="40" />
-</a>
-
 
 <a href="https://leetcode.com/swap72/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/swap72/testing/f68b742abf61cc4ef7e698c9e30ffd42929cb98b/leetcode.svg" alt="LeetCode Profile" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/swap72/testing/feeb8b72ad94d8707723836efddeb1e155b4693c/leetcode1.svg" alt="LeetCode Profile" height="30" width="40" />
 </a>
 
 </p>
