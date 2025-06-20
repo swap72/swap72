@@ -41,7 +41,7 @@ Clean and lean, always rehearsed.</em></h3>
     </a>
     
 <a href="https://leetcode.com/swap72/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode Profile" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode Profile" height="30" width="40" />
 </a>
 </p>
 
