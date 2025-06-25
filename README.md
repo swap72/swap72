@@ -76,7 +76,7 @@ Clean and lean, always rehearsed.</em></h3>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="javascript" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="javascript" width="40" height="40"/> 
     </a> 
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="javascript" width="40" height="40"/> 
