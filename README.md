@@ -75,6 +75,12 @@ Clean and lean, always rehearsed.</em></h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
@@ -89,7 +95,10 @@ Clean and lean, always rehearsed.</em></h3>
     </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="azure" width="40" height="40"/> 
+    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
