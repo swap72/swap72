@@ -106,11 +106,12 @@ Clean and lean, always rehearsed.</em></h3>
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/> 
     </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="40" height="40"/> 
-    </a>
-    <a href="https://ziglang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/ziglang/logo/4f97e7a9ebce12fa48511c0b6502b6190005bc0e/zig-logo-dark.svg" alt="Zig" width="40" height="40"/> 
-    </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> 
+</a>
+<a href="https://ziglang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" width="40" height="40"/> 
+</a>
+
 
 
     
