@@ -110,7 +110,16 @@ Clean and lean, always rehearsed.</em></h3>
     </a>     
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://go.dev/images/go-logo-blue.svg" alt="Go" width="40" height="40"/> 
+    </a>
+    <a href="https://ziglang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Zig_logo_2020.svg" alt="Zig" width="40" height="40"/> 
+    </a>
+
+
+    
 </p>
 
 # 📊 GitHub Stats:
